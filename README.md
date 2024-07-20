@@ -6,4 +6,6 @@ its a markdown file in this reporitory
 
 *testing and preview*
 
-# H 3 Tesing 
+# Display the output
+
+New python Life
